@@ -1,0 +1,6 @@
+# Python 캐시 및 PyInstaller 임시 빌드 폴더 제외
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
